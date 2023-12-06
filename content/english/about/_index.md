@@ -31,11 +31,22 @@ Currently, I am enrolled in studies at Inholland. It's a dynamic period of my ed
 
 {{< accordion "My Personal Skills" >}}
 
-- English
-- Spanish
-- Dutch
-- Arabic
 - Teamwork
+- Problem-Solving
+- Loical Thinking
+- Patience
+- Adaptability
+
+
+{{< /accordion >}}
+
+
+{{< accordion "Languages I Speak" >}}
+
+- Arabic
+- Spanish
+- English
+- Dutch
 
 
 {{< /accordion >}}
@@ -46,6 +57,8 @@ Currently, I am enrolled in studies at Inholland. It's a dynamic period of my ed
 - Linux
 - Data Bases
 - Cyber Security and Exploit Tools 
+- Onion network
+
 
 {{< /accordion >}}
 
