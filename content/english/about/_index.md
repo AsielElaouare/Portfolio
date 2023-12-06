@@ -6,7 +6,8 @@ image: "/images/avatar.png"
 draft: false
 ---
 
-{{< toc >}}
+
+Meet me, a dynamic individual with a passion for technology. Known for my stubburness, ambision and thecnical skills, I bring a unique blend of innovative thinking, leadership Qualities and problem solving to any situation. With a keen eye for programming, I am always eager to achive what I want. Whether it's coding, my enthusiasm and dedication shine through in everything I do. Outside of the technology world, you might find my in the sports world. I am on a journey of continual growth and I am excited about the opportunities that lie ahead.
 
 <hr>
 
