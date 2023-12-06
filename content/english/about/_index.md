@@ -23,13 +23,13 @@ Currently, I am enrolled in studies at Inholland. It's a dynamic period of my ed
 - C#
 - Java
 - Web Markup languages (HTML/CSS)
+- Bootstrap Framework
 - Java Script
 - Python
 
-
 {{< /accordion >}}
 
-{{< accordion "My Knowledge in Fields That I Find Interesting" >}}
+{{< accordion "Knowledge in Fields That I Find Interesting" >}}
 
 - Cloud Computing
 - Linux
@@ -37,7 +37,9 @@ Currently, I am enrolled in studies at Inholland. It's a dynamic period of my ed
 - Cyber Security and Exploit Tools 
 - Onion network
 - Routing
--
+- Managment Information Systems
+- Open Source MIT Softwares 
+
 
 
 {{< /accordion >}}
