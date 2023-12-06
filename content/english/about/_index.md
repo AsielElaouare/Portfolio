@@ -29,6 +29,19 @@ Currently, I am enrolled in studies at Inholland. It's a dynamic period of my ed
 
 {{< /accordion >}}
 
+{{< accordion "My Knowledge in Fields That I Find Interesting" >}}
+
+- Cloud Computing
+- Linux
+- Data Bases
+- Cyber Security and Exploit Tools 
+- Onion network
+- Routing
+-
+
+
+{{< /accordion >}}
+
 {{< accordion "My Personal Skills" >}}
 
 - Teamwork
@@ -51,14 +64,5 @@ Currently, I am enrolled in studies at Inholland. It's a dynamic period of my ed
 
 {{< /accordion >}}
 
-{{< accordion "My Knowledge in Fields That I Find Interesting" >}}
 
-- Cloud Computing
-- Linux
-- Data Bases
-- Cyber Security and Exploit Tools 
-- Onion network
-
-
-{{< /accordion >}}
 
