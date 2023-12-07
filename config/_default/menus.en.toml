@@ -22,16 +22,11 @@ name = "Pages"
 hasChildren = true
 
 
-
 [[main]]
 parent = "Pages"
 name = "Contact"
 url = "contact/"
 
-[[main]]
-parent = "Pages"
-name = "Authors"
-url = "authors/"
 
 [[main]]
 parent = "Pages"
