@@ -7,18 +7,18 @@ draft: false
 ---
 
 
-Meet me, a dynamic individual with a passion for technology. Known for my stubburness, ambision and thecnical skills, I bring a unique blend of innovative thinking, leadership Qualities and problem solving to any situation. With a keen eye for programming, I am always eager to achive what I want. Whether it's coding, my enthusiasm and dedication shine through in everything I do. Outside of the technology world, you might find my in the sports world. I am on a journey of continual growth and I am excited about the opportunities that lie ahead.
+Meet me, a dynamic individual with a passion for technology. Known for my stubburness, ambision and technical skills, I bring a unique blend of innovative thinking, leadership qualities and problem solving to any situation. With a keen eye for programming, I am always eager to achieve what I want. Whether it's coding, my enthusiasm and dedication shine through in everything I do. Outside of the technology world, you might find my in the sports world. I am on a journey of continual growth and I am excited about the opportunities that lie ahead.
 
 <hr>
 
 # Education
 
-Currently, I am enrolled in studies at Inholland. It's a dynamic period of my educational journey, where I'm delving into the diverse realms of Information Technology. Inholland provides a rich learning environment, and I'm excited to share my experiences and discoveries as I navigate through my courses and projects. Stay tuned for more updates on my educational adventure at Inholland! 
+Currently, I am enrolled in studies at HBO Inholland. It's a dynamic period of my educational journey, where I'm delving into the diverse realms of Information Technology. Inholland provides a rich learning environment, and I'm excited to share my experiences and discoveries as I navigate through my courses and projects. Stay tuned for more updates on my educational adventure at Inholland! 
 
 <hr>
 
 
-{{< accordion "My Current Program Skills" >}}
+{{< accordion "My Current Programming Skills" >}}
 
 - C#
 - Java
@@ -39,12 +39,13 @@ Currently, I am enrolled in studies at Inholland. It's a dynamic period of my ed
 - Routing
 - Managment Information Systems
 - Open Source MIT Softwares 
+- User Interface Principles
 
 
 
 {{< /accordion >}}
 
-{{< accordion "My Personal Skills" >}}
+{{< accordion "My Soft Skills" >}}
 
 - Teamwork
 - Problem-Solving

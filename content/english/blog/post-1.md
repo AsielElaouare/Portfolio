@@ -1,20 +1,13 @@
 ---
-title: "I love my Gf <3"
+title: "Hugo Magic: Crafting Exceptional Websites with the Ultimate Generator"
 meta_title: ""
-description: "this is meta description"
+description: "Why should you use Hugo"
 date: 2023-12-04T05:00:00Z
-image: "/images/image-placeholder.png"
-categories: ["Application", "Data"]
+image: "/images/gallery/hugo-image.png"
+categories: ["Web Aplications"]
 author: "Asiel Elaouare"
-tags: ["nextjs", "tailwind"]
-draft: false
+tags: ["Hugo", "Go", "HTML/CSS"]
+draft: true
 ---
 
-Hi baby, are u seeing this?
-
-## nadia
-
-i love uuu
-
-
-{{< notice "warning" >}} I have a gf. {{< /notice >}}
+# test 
