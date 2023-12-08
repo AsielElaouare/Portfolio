@@ -36,8 +36,31 @@ Cloud computing transcends geographical limitations, promoting global accessibil
 5. Innovation Acceleration:
 The cloud serves as a catalyst for innovation, and the course showcased advanced services. From artificial intelligence to DevOps practices, businesses can leverage these technologies for innovation acceleration.
 
-## My Azure Fundamentals Journey:
-The Azure Fundamentals course was a rich blend of theoretical insights and hands-on experiences. The interactive labs and real-world scenarios allowed me to apply theoretical concepts in practical situations, solidifying my understanding of cloud principles. From virtual machines to storage solutions, the course covered a broad spectrum of Azure services, providing a holistic view of cloud computing.
+## How my cloud journy started:
+
+Why did I start learning the fundamentals of Azure? Why did I choose Azure, what about all the other cloud providers?
+Everything started once I wanted to deploy a very simple web application for testing my own security and the security of the ones I knew around me. 
+
+Basically, the web application i wanted to deploy had a framework which (I will not provide here for obvoius reaosns) where a user (the victim) clicks on that website URL and then the scripts running on the background of that website convert the user's browser into a "zombie", so the owner of that website would literraly have access to the user's device that got hooked by that framework. And of course all of that happens without the knowledge of the user that clicked on the URL. 
+
+The attackant would have full control to the user's device, stuff that can the attackant do are some like those:
+- View user's location by IP adress.
+- Open and close cameras, microphones of the user's device.
+- Having remote access of the user's browser.
+- View user's history, logs, and data typed in the user's browser, such as passwords and other sensible data.
+
+And soooo many other creepy things...
+
+Back then, I wanted to deploy this web site with the implemented framework to test how my electronical devices would react to it and how I can secure them if one of the devices gets infected.
+
+By deploying such website I needed a lot of resources and one of those were a place where my website would live in the internet to acces it outside of the local network.
+
+I sarted to do some reaserch on how I can deploy this website ot the internet and which ways are the best.
+
+Everything pointed out to the cloud, becuase its fast, its cheap and its "easy".
+
+So I started to play around whit Microsft Azure and it was a nightmare, so I decided to follow the Microsoft Azure Documentation and it amazed me that they had a Microsoft Learning platform where you can learn everything you need for free.
+
 
 ## Conclusion:
 In conclusion, my journey with Microsoft's Azure Fundamentals course has been both enlightening and empowering. Cloud computing isn't merely a technological trend; it's a transformative force reshaping the business landscape. With a solid foundation in cloud computing, businesses can unlock new possibilities, streamline operations, and drive innovation. As we navigate the digital future, a nuanced understanding of cloud computing is not just advantageous—it's indispensable. The Azure Fundamentals course serves as a gateway to this expansive world, offering a roadmap to navigate the complexities and opportunities presented by the cloud.
