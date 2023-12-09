@@ -13,54 +13,44 @@ draft: false
 
 {{< toc >}}
 
-In an era defined by technological innovation, staying ahead requires a deep understanding of transformative concepts. My recent journey through Microsoft's Azure Fundamentals course has been an enlightening exploration of the vast realm of cloud computing. This blog aims to provide a comprehensive overview of the importance of cloud computing knowledge, spanning topics such as scalability, cost efficiency, security, global accessibility, innovation acceleration, and my personal experiences with Azure. Additionally, I'll delve into the diverse aspects covered in the course, including application migration, application modernization, caching, cloud computing types, data governance, data integration, DevOps, hybrid cloud computing, and private cloud.
+
+In an age driven by technological advancements, keeping pace requires a profound grasp of transformative ideas. My recent exploration into Microsoft's Azure Fundamentals course has been a fascinating journey through the expansive realm of cloud computing. This blog seeks to offer a comprehensive view of the significance of cloud computing knowledge, covering aspects such as scalability, cost efficiency, security, global accessibility, innovation acceleration, and my personal experiences with Azure. Additionally, I'll delve into various topics covered in the course, ranging from application migration to data governance, highlighting the diverse facets of cloud computing.
+
+### The Rise of Cloud Computing:
+As the world of business undergoes a digital metamorphosis, cloud computing stands out as a pivotal force propelling this revolution. Microsoft's Azure Fundamentals course serves as a guiding beacon, shedding light on foundational concepts and illustrating the versatile applications of cloud services in our dynamic global landscape.
+
+### How my Cloud Journey Began:
+What prompted me to delve into the basics of Azure? Why did I choose Azure over other cloud providers? It all started when I wanted to deploy a simple web application for testing security, both mine and that of people I knew.
+
+The web application I aimed to deploy had a framework (details omitted for obvious reasons) that, when a user clicked on the website URL, turned their browser into a "zombie." This granted the website owner access to the user's device without their knowledge. The attacker could perform various actions, such as viewing the user's location, accessing cameras and microphones, remotely controlling the browser, and retrieving sensitive data.
+
+To test how my devices would react and how to secure them if infected, I needed ample resources, including a platform for my website to exist beyond the local network. Cloud services seemed the logical choice due to their speed, cost-effectiveness, and ease of use.
+
+My foray into Microsoft Azure initially proved challenging, leading me to consult the Microsoft Azure Documentation and discover the Microsoft Learning platform, a free resource that became the starting point for my cloud journey.
+
+### The Significance of Cloud Computing Knowledge:
+Understanding the importance of cloud computing became a cornerstone of my learning journey, particularly for companies transitioning their operations to the cloud.
+
+### Scalability and Flexibility:
+The course emphasized the dynamic scalability of cloud solutions, facilitating seamless adaptation for businesses. This extends beyond scaling resources, covering strategies for smooth application migration.
+
+### Cost Efficiency:
+A key takeaway was the inherent cost efficiency of cloud computing. By eliminating upfront investments in physical infrastructure, businesses can optimize costs and explore application modernization for increased efficiency.
+
+### Enhanced Security:
+Addressing security concerns, the course highlighted robust security features and data governance practices. These ensure businesses can confidently safeguard their assets in the cloud.
+
+### Global Accessibility:
+Cloud computing breaks geographical barriers, promoting global access to data and applications. The course explored data integration strategies, fostering seamless collaboration across diverse teams.
+
+### Innovation Acceleration:
+The cloud acts as a catalyst for innovation, showcasing advanced services from artificial intelligence to DevOps practices. Businesses can leverage these technologies for accelerated innovation.
+
+### Conclusion:
+In conclusion, my exploration of Microsoft's Azure Fundamentals course has been both enlightening and empowering. Cloud computing isn't just a technological trend; it's a transformative force reshaping the business landscape. With a solid foundation in cloud computing, businesses can unlock new possibilities, streamline operations, and drive innovation. As we navigate the digital future, a nuanced understanding of cloud computing is not just advantageous—it's indispensable. The Azure Fundamentals course serves as a gateway to this expansive world, offering a roadmap to navigate the complexities and opportunities presented by the cloud.
 
 
-## The Rise of Cloud Computing:
-As the global business landscape transforms digitally, cloud computing emerges as a central force powering this revolution. Microsoft's Azure Fundamentals course serves as a guiding light, offering insights into foundational concepts and showcasing the diverse applications of cloud services in our dynamic global environment.
-
-## Importance of Cloud Computing Knowledge:
-
-1. Scalability and Flexibility:
-The course emphasized the dynamic scalability of cloud solutions, allowing businesses to adapt operations seamlessly. This includes not only scaling resources but also understanding application migration strategies for a smooth transition to the cloud.
-
-2. Cost Efficiency:
-A pivotal lesson from the course was the inherent cost efficiency of cloud computing. Eliminating upfront investments in physical infrastructure, businesses can optimize costs and learn the nuances of application modernization for enhanced efficiency.
-
-3. Enhanced Security:
-Security concerns often hinder cloud adoption, but the course debunked misconceptions by showcasing robust security features. It covered data governance practices, ensuring businesses can safeguard their assets in the cloud.
-
-4. Global Accessibility:
-Cloud computing transcends geographical limitations, promoting global accessibility to data and applications. The course explored data integration strategies, enabling seamless collaboration across diverse teams.
-
-5. Innovation Acceleration:
-The cloud serves as a catalyst for innovation, and the course showcased advanced services. From artificial intelligence to DevOps practices, businesses can leverage these technologies for innovation acceleration.
-
-## How my cloud journy started:
-
-Why did I start learning the fundamentals of Azure? Why did I choose Azure, what about all the other cloud providers?
-Everything started once I wanted to deploy a very simple web application for testing my own security and the security of the ones I knew around me. 
-
-Basically, the web application i wanted to deploy had a framework which (I will not provide here for obvoius reaosns) where a user (the victim) clicks on that website URL and then the scripts running on the background of that website convert the user's browser into a "zombie", so the owner of that website would literraly have access to the user's device that got hooked by that framework. And of course all of that happens without the knowledge of the user that clicked on the URL. 
-
-The attackant would have full control to the user's device, stuff that can the attackant do are some like those:
-- View user's location by IP adress.
-- Open and close cameras, microphones of the user's device.
-- Having remote access of the user's browser.
-- View user's history, logs, and data typed in the user's browser, such as passwords and other sensible data.
-
-And soooo many other creepy things...
-
-Back then, I wanted to deploy this web site with the implemented framework to test how my electronical devices would react to it and how I can secure them if one of the devices gets infected.
-
-By deploying such website I needed a lot of resources and one of those were a place where my website would live in the internet to acces it outside of the local network.
-
-I sarted to do some reaserch on how I can deploy this website ot the internet and which ways are the best.
-
-Everything pointed out to the cloud, becuase its fast, its cheap and its "easy".
-
-So I started to play around whit Microsft Azure and it was a nightmare, so I decided to follow the Microsoft Azure Documentation and it amazed me that they had a Microsoft Learning platform where you can learn everything you need for free.
 
 
-## Conclusion:
-In conclusion, my journey with Microsoft's Azure Fundamentals course has been both enlightening and empowering. Cloud computing isn't merely a technological trend; it's a transformative force reshaping the business landscape. With a solid foundation in cloud computing, businesses can unlock new possibilities, streamline operations, and drive innovation. As we navigate the digital future, a nuanced understanding of cloud computing is not just advantageous—it's indispensable. The Azure Fundamentals course serves as a gateway to this expansive world, offering a roadmap to navigate the complexities and opportunities presented by the cloud.
+
+
