@@ -6,7 +6,7 @@ date: 2023-12-09T05:00:00Z
 image: "/images/gallery/html-scraping.png"
 categories: ["Automatisation"]
 author: "Asiel Elaouare"
-tags: ["Scripts", "C#"]
+tags: ["Scripts", "C-Sharp"]
 draft: false
 ---
 
