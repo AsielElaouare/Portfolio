@@ -10,8 +10,6 @@ tags: ["Scripts", "C-Sharp"]
 draft: false
 ---
 
-
-
 As I pondered my next coding projects for some hands-on practice, the idea of crafting a web scraper script caught my attention. While the basics might seem straightforward, I craved a challenge. That's when the concept of a user-friendly console application struck me – one that not only prompts users for a URL to scrape but also lets them specify the type of information they want to extract. To take it a step further, I envisioned the seamless export of this valuable data to either a text file or a CSV file, giving users the flexibility to choose their preferred format. 
 
 I made some scraping scripts back with python, but this time I wanted to use C#. Therefore I had to use `HtmlAgilityPack` package and the `System.IO` library. I had to consult the documentation for this package since it was a bit confusing to use. I also watched a good tutorial beofore starting, to get a better idea of how the package works and what it has to offer.
