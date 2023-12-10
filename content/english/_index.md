@@ -7,8 +7,5 @@ banner:
   button:
     enable: true
     label: "Check out my blog"
-    link: "Blog/"
-
-# Features
-
+    link: "blog/"
 ---
