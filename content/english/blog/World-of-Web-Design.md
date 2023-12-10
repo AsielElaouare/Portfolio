@@ -6,8 +6,8 @@ date: 2023-12-07T05:00:00Z
 image: "images/gallery/web-design.png"
 categories: ["Web Aplications"]
 author: "Asiel Elaouare"
-tags: ["User Interface"]
-draft: true 
+tags: ["User Interface", "Web Design"]
+draft: false 
 ---
 
 {{< toc >}}
@@ -27,7 +27,7 @@ For a tech enthusiast like me, diving into UI principles has been a game-changer
 
 To apply the theory I absorbed from my class, I embarked on a hands-on journey using Figma, a powerful design tool. Figma became my virtual canvas, where I translated UI principles into practical design elements. I'll share how Figma played a pivotal role in bringing my ideas to life and streamlining the design process. I never designed a website before, all my websites projects were starting right away from code. No sketching, no prototypying, no nothing! This Web Design class made me realize how bad my websites actually were and why nobody would use them. 
 
-This course was really a helpful reflection for my future personal projects and how important is having a good understanding abut this principles. I learned then what steps should be taken first to crate a web application, although these steps wouldn't be enough for big enterprise projects, it gives a global idea about how things should be done. 
+This course was really a helpful reflection for my future personal projects and how important is having a good understanding abut this principles. I learned then, what steps should be taken start designing a project, although these steps wouldn't be enough for enterprise projects, it gives a global idea about how things should be done. 
 
 1. **Define Purpose and Audience:**
 Clarify the goals and target audience for your website.
@@ -64,7 +64,7 @@ Share prototypes for input and refine your design accordingly.
 
 ## University Project: A Race Against Time:
 
-Embarking on the web design project for my university's final grade was a whirlwind journey that demanded the application of diverse design theories within a tight one-month timeframe. The creative process kicked off with a deep dive into color theory and font type theory, setting the foundation for a visually compelling end product. The challenge of balancing aesthetics and functionality loomed large, and I'll guide you through the strategies I employed to navigate this delicate dance. From conceptualizing the layout to selecting a harmonious color palette, every decision played a crucial role in bringing the project to life. As the deadline loomed, the pressure was on, but with strategic time management and creative problem-solving, I successfully delivered a polished website that not only met the academic criteria but also stood as a testament to the power of design theories in practical application. This experience underscored the importance of adaptability and resourcefulness in meeting tight deadlines without compromising on the quality of the final output.
+Embarking on the web design project for my university's final grade was a whirlwind journey that demanded the application of diverse design theories within a tight one-month timeframe. The creative process kicked off with a deep dive into color theory and font type theory, setting the foundation for a visually compelling end product. The challenge of balancing aesthetics and functionality loomed large. From conceptualizing the layout to selecting a harmonious color palette, every decision played a crucial role in bringing the project to life. As the deadline loomed, the pressure was on, but with strategic time management and creative problem-solving, I successfully delivered a polished website that not only met the academic criteria but also stood as a testament to the power of design theories in practical application. This experience underscored the importance of adaptability and resourcefulness in meeting tight deadlines without compromising on the quality of the final output.
 
 {{< notice "note" >}}
 If you log in with Figma down below, you get to see my final project.
