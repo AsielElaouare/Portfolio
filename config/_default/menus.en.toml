@@ -18,14 +18,14 @@ weight = 3
 
 [[main]]
 weight = 4
-url = "Projects/"
-name = "Projects"
-
+url = "learning-paths/"
+name = "Learning Paths"
 
 [[main]]
 weight = 5
 name = "Pages"
 hasChildren = true
+
 
 
 
