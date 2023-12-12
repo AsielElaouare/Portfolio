@@ -6,9 +6,10 @@ date: 2023-12-09T05:00:00Z
 image: "/images/gallery/html-scraping.png"
 categories: ["Automatisation"]
 author: "Asiel Elaouare"
-tags: ["Scripts", "C-Sharp", "HTML/CSS"]
+tags: ["Scripts", "C-Sharp", "HTML/CSS" ] 
 draft: false
 ---
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://https://github.com/AsielElaouare/WebScraper)
 
 As I pondered my next coding projects for some hands-on practice, the idea of crafting a web scraper script caught my attention. While the basics might seem straightforward, I craved a challenge. That's when the concept of a user-friendly console application struck me – one that not only prompts users for a URL to scrape but also lets them specify the type of information they want to extract. To take it a step further, I envisioned the seamless export of this valuable data to either a text file or a CSV file, giving users the flexibility to choose their preferred format. 
 
@@ -37,8 +38,6 @@ Here's a breakdown of what each part of the code does:
 `return htmlDocument;`: Finally, the method returns the `HtmlDocument object`, which can be further processed or analyzed using methods provided by **HtmlAgilityPack**.
 
 In summary, the `GetDocument` method encapsulates the logic for loading an HTML document from a given URL using HtmlAgilityPack, providing a convenient way to retrieve and work with the parsed HTML content in other parts of your code.
-
-
 
 
 After writing some code and testing on a website to extract all the `<li>` nodes that contained a `<a>` with an atribute `href="url"` I encountered a problem that I couldn't understand why it was happening, after some minutes of debugging I still couldn't understand the cause of the issue that was thrown at line `string href = link.Attributes["href"].Value;` by the IDE. The error thrown was a **System.NullReferenceException**,  I've ensured that `linkNodes` is not null before entering the  foreach loop. Although, it still indicated that the link might be null.
