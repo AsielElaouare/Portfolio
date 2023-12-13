@@ -9,7 +9,6 @@ author: "Asiel Elaouare"
 tags: ["Scripts", "C-Sharp", "HTML/CSS" ] 
 draft: false
 ---
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue.svg?style=for-the-badge&logo=github)](https://github.com/AsielElaouare/WebScraper)
 
 As I pondered my next coding projects for some hands-on practice, the idea of crafting a web scraper script caught my attention. While the basics might seem straightforward, I craved a challenge. That's when the concept of a user-friendly console application struck me – one that not only prompts users for a URL to scrape but also lets them specify the type of information they want to extract. To take it a step further, I envisioned the seamless export of this valuable data to either a text file or a CSV file, giving users the flexibility to choose their preferred format. 
 
@@ -126,4 +125,9 @@ Here is how the output looks like (for obvoius reasons the image that I'm provid
 
 I'm of course not done with the implementation of new functionalities to this Console Application. This blog post is going to be updated every single time a new functionality comes to live. The next functionality in mind, is saving data that a user requests from a website in a cvs file for database implementation.
 
+<hr>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue.svg?style=for-the-badge&logo=github)](https://github.com/AsielElaouare/WebScraper)
+
+<hr>
 
