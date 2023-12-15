@@ -6,7 +6,7 @@ date: 2023-12-09T05:00:00Z
 image: "/images/gallery/html-scraping.png"
 categories: ["Automatisation"]
 author: "Asiel Elaouare"
-tags: ["Scripts", "C-Sharp", "HTML/CSS"]
+tags: ["Scripts", "C-Sharp", "HTML/CSS" ] 
 draft: false
 ---
 
@@ -37,8 +37,6 @@ Here's a breakdown of what each part of the code does:
 `return htmlDocument;`: Finally, the method returns the `HtmlDocument object`, which can be further processed or analyzed using methods provided by **HtmlAgilityPack**.
 
 In summary, the `GetDocument` method encapsulates the logic for loading an HTML document from a given URL using HtmlAgilityPack, providing a convenient way to retrieve and work with the parsed HTML content in other parts of your code.
-
-
 
 
 After writing some code and testing on a website to extract all the `<li>` nodes that contained a `<a>` with an atribute `href="url"` I encountered a problem that I couldn't understand why it was happening, after some minutes of debugging I still couldn't understand the cause of the issue that was thrown at line `string href = link.Attributes["href"].Value;` by the IDE. The error thrown was a **System.NullReferenceException**,  I've ensured that `linkNodes` is not null before entering the  foreach loop. Although, it still indicated that the link might be null.
@@ -127,4 +125,9 @@ Here is how the output looks like (for obvoius reasons the image that I'm provid
 
 I'm of course not done with the implementation of new functionalities to this Console Application. This blog post is going to be updated every single time a new functionality comes to live. The next functionality in mind, is saving data that a user requests from a website in a cvs file for database implementation.
 
+<hr>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue.svg?style=for-the-badge&logo=github)](https://github.com/AsielElaouare/WebScraper)
+
+<hr>
 
