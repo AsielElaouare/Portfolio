@@ -200,7 +200,7 @@ This functionality not only enhanced our web application but also deepened my co
 
 ***Final result: https://stupendous-bombolone-7c3480.netlify.app***
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue.svg?style=for-the-badge&logo=github)](https://github.com/AsielElaouare/NutritionFacts)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue.svg?style=for-the-badge&logo=github)](https://github.com/AsielElaouare/NutrientQuery)
 
 <hr>
 
