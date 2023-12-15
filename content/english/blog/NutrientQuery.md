@@ -14,13 +14,13 @@ draft: false
 
 ## NutrientQuery 
 
-Welcome to the beginning of my nutrition facts [Web Aplication](https://stupendous-bombolone-7c3480.netlify.app "NutrientQuery Page") journey! It all started with a chat with a talented UX designer, deeply immersed in a personal project for six months. While crafting his grand vision, we discovered a crucial feature essential for his project's success.
+Welcome to the beginning of my nutrition facts [Web Aplication](https://stupendous-bombolone-7c3480.netlify.app "NutrientQuery Page") journey! It all started with a chat with a talented UX designer, Dennis, deeply immersed in a personal project for 5 months. While crafting his grand vision, he discovered a crucial feature essential for his project's success.
 
-My web application's story began with a prototype test for his project, revealing the need for a nutrition-focused function. As my friend continues to build his masterpiece, this functionality has become the heart of our shared journey to healthier living. Join us in exploring the tale of collaboration, innovation, and creating a web application rooted in practicality.
+My web application's story began with a prototype test for his project, revealing the need for a nutrition-focused function. As my friend Dennis continues to build his masterpiece, this functionality has become the heart of his journey to healthier living. Join us in exploring the tale of collaboration, innovation, and creating a web application rooted in practicality.
 
 My friend, the UX designer, is a coding newcomer, teaching himself the ropes. Despite being a beginner, his dedication has been crucial. Venturing into public APIs for his functionality prototype, his fresh perspective and eagerness to learn became a driving force. Innovation knows no boundaries, especially for those taking on the exciting challenges of coding for the first time.
 
-Starting with API instructions, before the integration of the API into his project I created a variant some days before, using Bootstrap as my frontend and JQuery for the DOM for testing reasons. This decision not only showcased the efficiency of public APIs but also marked the beginning of us working together to bring the UX designer’s vision to life through coding.
+Starting with API instructions, before the integration of the API into his project I created a variant some days before, using Bootstrap as my frontend and JQuery for the Document Object Model. This decision not only showcased the efficiency of public APIs but also marked the beginning of us working together to bring the UX designer’s vision to life through coding.
 
 
 {{< notice "note" >}}
@@ -94,11 +94,11 @@ The entire structure is enclosed in curly braces `{}` denoting a JSON object.
 Within this object, there is an array labeled `items` that begins with square brackets `[]`. Each element inside the array is a JSON object containing nutritional information for a specific food item.
 Each food item is represented as a JSON object with key-value pairs, where the keys are attribute names (e.g., "sugar_g," "fiber_g") and the values are the corresponding data for each attribute.
 
-Working with the API was a smooth experience, facilitating seamless integration into our project. This efficiency allowed us to progress swiftly in developing the desired functionality for our web application.
+Working with the API was a smooth experience, facilitating seamless integration into this project. This efficiency allowed us to progress swiftly in developing the desired functionality for Dennis' web application.
 
 The use of jQuery further simplified the process with clean code, offering a better overview of the Document Object Model (DOM). This contributed to an efficient and straightforward development experience.
 
-The cornerstone of our functionality lies in the following pivotal code block. This JavaScript function, 'updateTableOfContent,' plays a central role in updating the content displayed on our web application.
+The cornerstone of our functionality lies in the following pivotal code block. This JavaScript function, 'updateTableOfContent,' plays a central role in updating the content displayed on the web application.
 
 
 ```javascript
@@ -181,13 +181,13 @@ function updateTableOfContent(result){
     });
 };
 ```
-This function dynamically updates the content on the web page, calculating and displaying key nutritional information. It also generates a pie chart using Google Charts to offer a visual representation of the overall nutritional composition. This block stands as the linchpin in ensuring a comprehensive and user-friendly presentation of the nutrition data.
+This function dynamically updates the content on the web page, calculating and displaying key nutritional information. It also generates a pie chart using Google Charts API to offer a visual representation of the overall nutritional composition. This block stands as the linchpin in ensuring a comprehensive and user-friendly presentation of the nutrition data.
 
 ## Frontend Choice: Building User-Friendly Experiences with Bootstrap
 
-In the world of web development, choosing the right tools can significantly impact the success of a project. In my journey, I decided to go with Bootstrap as the frontend framework for our web application variant. Why Bootstrap? It's well-known for being user-friendly, and it offered me a way to skip the often time-consuming task of styling with CSS.
+In the world of web development, choosing the right tools can significantly impact the success of a project. In my journey, I decided to go with Bootstrap as the frontend framework for this web application variant. Why Bootstrap? It's well-known for being fast and easy, and it offered me a way to skip the often time-consuming task of styling with CSS.
 
-This decision wasn't just about making things easy—it was a strategic move to make the development process smoother. Bootstrap comes with a bunch of pre-designed elements and a flexible grid system, which meant I could concentrate more on the logic and functionality of our web application. It was like having a toolkit that made building things visually appealing and consistent a breeze.
+This decision wasn't just about making things easy—it was a strategic move to make the development process smoother. Bootstrap comes with a bunch of pre-designed elements and a flexible grid system, which meant I could concentrate more on the logic and functionality of the web application. It was like having a toolkit that made building things visually appealing and consistent a breeze.
 
 In simpler terms, Bootstrap became my go-to because it promised to make things both easy and good-looking. It's like having a reliable sidekick—always there to support me in crafting a web app that not only works well but also looks polished.
 
@@ -198,7 +198,7 @@ This functionality not only enhanced our web application but also deepened my co
 
 <hr>
 
-***Final Product: https://stupendous-bombolone-7c3480.netlify.app***
+***Final result: https://stupendous-bombolone-7c3480.netlify.app***
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue.svg?style=for-the-badge&logo=github)](https://github.com/AsielElaouare/NutritionFacts)
 
