@@ -14,7 +14,7 @@ draft: false
 
 ## NutrientQuery 
 
-Welcome to the beginning of my nutrition facts [Web Aplication](https://stupendous-bombolone-7c3480.netlify.app "NutrientQuery Page") journey! It all started with a chat with a talented UX designer, Dennis, deeply immersed in a personal project for 5 months. While crafting his grand vision, he discovered a crucial feature essential for his project's success.
+Welcome to the beginning of my nutrition facts [Web Aplication](https://nutrient-query.netlify.app "NutrientQuery Page") journey! It all started with a chat with a talented UX designer, Dennis, deeply immersed in a personal project for 5 months. While crafting his grand vision, he discovered a crucial feature essential for his project's success.
 
 My web application's story began with a prototype test for his project, revealing the need for a nutrition-focused function. As my friend Dennis continues to build his masterpiece, this functionality has become the heart of his journey to healthier living. Join us in exploring the tale of collaboration, innovation, and creating a web application rooted in practicality.
 
@@ -198,7 +198,7 @@ This functionality not only enhanced our web application but also deepened my co
 
 <hr>
 
-***Final result: https://stupendous-bombolone-7c3480.netlify.app***
+***Final result: https://nutrient-query.netlify.app***
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue.svg?style=for-the-badge&logo=github)](https://github.com/AsielElaouare/NutrientQuery)
 
