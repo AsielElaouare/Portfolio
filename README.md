@@ -1,4 +1,7 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/adc3854f-1ef6-4ed2-bd43-b9e1c0cbf1f7/deploy-status)](https://app.netlify.com/sites/astonishing-cranachan-6a9c44/deploys) [![Powered by Hugo](https://img.shields.io/badge/Powered%20by-Hugo-pink.svg)](https://gohugo.io/) [![Hugo Version](https://img.shields.io/badge/Hugo-v0.120.4-blue.svg)](https://gohugo.io/)
+[![Netlify Status](https://img.shields.io/badge/Netlify%20Status-Success-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/sites/astonishing-cranachan-6a9c44/deploys)
+[![Powered by Hugo](https://img.shields.io/badge/Powered%20by-Hugo-pink?style=for-the-badge&logo=hugo&logoColor=white)](https://gohugo.io/)
+[![Hugo Version](https://img.shields.io/badge/Hugo-v0.120.4-blue?style=for-the-badge&logo=hugo&logoColor=white)](https://gohugo.io/)
+
 
 
 # https://asiel-elaouare.com
