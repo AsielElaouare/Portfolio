@@ -58,14 +58,3 @@ blockquote > p {
   @apply my-0 #{!important};
 }
 
-
-
-.badge-container {
-  display: flex;
-  align-items: center;
-  flex-wrap: wrap;
-}
-
-.badge-container > a{
-  margin: 5px;
-}
