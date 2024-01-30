@@ -4,3 +4,12 @@
     text-align:left;
 }
 
+.badge-container {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .badge-container > a{
+    margin: 5px;
+  }
