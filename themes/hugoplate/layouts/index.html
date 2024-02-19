@@ -11,6 +11,9 @@
             <p class="mb-8">
               {{ .content | markdownify }}
             </p>
+            <div class="col-12 md-5">
+              {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" ) }}
+            </div>
             {{ with .button }}
               {{ if .enable }}
                 <a class="btn btn-primary" href="{{ .link | absURL }}">
@@ -20,9 +23,7 @@
               {{ end }}
             {{ end }}
           </div>
-          <div class="col-12">
-            {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" ) }}
-          </div>
+          
         </div>
       </div>
     </section>
