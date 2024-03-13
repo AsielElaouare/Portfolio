@@ -33,7 +33,7 @@ Currently, I am enrolled in studies at HBO Inholland. It's a dynamic period of m
 
 - Cloud Computing
 - Linux
-- Data Bases
+- Databases
 - Cyber Security and Exploit Tools 
 - Onion network
 - Routing
