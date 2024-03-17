@@ -1,7 +1,7 @@
 {{ define "main" }}
   <!-- Banner -->
   {{ with .Params.banner }}
-    <section class="section pt-14">
+    <section class="section pt-14 banner-pc">
       <div class="container">
         <div class="row justify-center">
           <div class="lg:col-7 mb-8 text-center">
@@ -11,7 +11,7 @@
             <p class="mb-8">
               {{ .content | markdownify }}
             </p>
-            <div class="col-12 md-5">
+            <div class="col-12 md-5 banner-img-pc">
               {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" ) }}
             </div>
             {{ with .button }}
@@ -29,7 +29,35 @@
     </section>
   {{ end }}
   <!-- /Banner -->
-
+{{ with .Params.bannerResponsive }}
+    <section class="section pt-14 banner-phone">
+      <div class="container">
+        <div class="row justify-center">
+          <div class="lg:col-7 mb-8 text-center">
+            <h1 class="mb-4">
+              {{ .title | markdownify }}
+            </h1>
+            
+            <div class="col-12 md-5 ">
+              {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" ) }}
+            </div>
+            <p class="mb-8">
+              {{ .content | markdownify }}
+            </p>
+            {{ with .button }}
+              {{ if .enable }}
+                <a class="btn btn-primary" href="{{ .link | absURL }}">
+                  {{ .label }}
+                  <i class="fa fa-arrow-right pl-2"></i>
+                </a>
+              {{ end }}
+            {{ end }}
+          </div>
+          
+        </div>
+      </div>
+    </section>
+  {{ end }}
   <!-- Features -->
   {{ range $i, $e:= .Params.features }}
     <section class="section-sm {{ if (modBool $i 2) }}bg-gradient{{ end }}">
