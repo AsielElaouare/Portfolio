@@ -13,3 +13,24 @@
   .badge-container > a{
     margin: 5px;
   }
+
+
+  // banner responsive 
+
+
+
+  @media only screen and (min-width: 750px) {
+    .banner-phone {
+      display: none;
+    }
+    
+  }
+
+  @media only screen and (max-width: 750px) {
+    .banner-pc {
+      display: none;
+    }
+    
+  }
+
+  
