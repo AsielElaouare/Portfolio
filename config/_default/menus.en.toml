@@ -21,10 +21,7 @@ weight = 4
 url = "learning-paths/"
 name = "Learning Paths"
 
-[[main]]
-weight = 5
-url = "projects/"
-name = "Projects"
+
 
 
 
