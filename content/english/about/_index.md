@@ -18,7 +18,7 @@ Currently, I am enrolled in studies at HBO Inholland. It's a dynamic period of m
 <hr>
 
 
-{{< accordion "My Current Programming Skills" >}}
+{{< accordion "My Current Toolbox" >}}
 
 - C#
 - Java
@@ -27,19 +27,19 @@ Currently, I am enrolled in studies at HBO Inholland. It's a dynamic period of m
 - Java Script
 - Python
 
+
 {{< /accordion >}}
 
 {{< accordion "Knowledge in Fields That I Find Interesting" >}}
 
 - Cloud Computing
+- Self Hosting
 - Linux
 - Databases
 - Cyber Security and Exploit Tools 
 - Onion network
 - Routing
 - Managment Information Systems
-- Open Source MIT Softwares 
-- User Interface Principles
 
 
 
@@ -49,7 +49,7 @@ Currently, I am enrolled in studies at HBO Inholland. It's a dynamic period of m
 
 - Teamwork
 - Problem-Solving
-- Loical Thinking
+- Logical Thinking
 - Patience
 - Adaptability
 
@@ -63,7 +63,6 @@ Currently, I am enrolled in studies at HBO Inholland. It's a dynamic period of m
 - Spanish
 - English
 - Dutch
-
 
 {{< /accordion >}}
 
