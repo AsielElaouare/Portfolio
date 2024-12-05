@@ -2,7 +2,7 @@
 title: "Hey, I am Asiel Elaouare"
 meta_title: "About"
 description: ""
-image: "/images/avatar.png"
+image: "/images/gallery/asiel-elaoaure-pic.jpg"
 draft: false
 ---
 
@@ -20,12 +20,18 @@ Currently, I am enrolled in studies at HBO Inholland. It's a dynamic period of m
 
 {{< accordion "My Current Toolbox" >}}
 
-- C#
+- .NET (C#)
+- ASP.NET
+- WPF .NET
+- PHP
 - Java
+- JavaFX
 - Web Markup languages (HTML/CSS)
 - Bootstrap Framework
-- Java Script
-- Python
+- JavaScript
+- Azure 
+- SQL
+- NoSQL (MongoDB)
 
 
 {{< /accordion >}}
