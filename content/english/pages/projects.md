@@ -2,13 +2,34 @@
 title: Projects
 
 features:
+  - title: "ProblemRaisers"
+    image: "/images/projectsPics/ProblemRaisers.png"
+    content:  "My goal has always been clear: to innovate and address real-world problems that truly resonate with people. However, I often found it challenging to identify problems that were both impactful and worth dedicating my time to solve. Finding common pain points that many people share was particularly difficult because there isn’t a centralized platform to facilitate this process.
+
+This challenge inspired an idea: to create a platform where individuals can share their everyday pain points, enabling others in the same community to collaborate on solutions. This platform would not only foster innovation but also empower people to turn their ideas into tangible solutions—potentially creating opportunities for financial growth and entrepreneurship. I’m thrilled to introduce this concept, which aims to become a hub for innovation and creativity. Together, we can build a community that paves the way for future advancements, driven by shared experiences and collaborative problem-solving. <br> <div class='badge-container'>  [![C#](https://img.shields.io/badge/Language-C%23-blue?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)[![.NET Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]() [![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)](https://azure.microsoft.com/en-us/services/sql-database/)</div>"
+    button: 
+        enable: true
+        label: "Check it out!"
+        link: "https://problem-raisers-mvp-hgegd2cub5eph4ce.germanywestcentral-01.azurewebsites.net/about"
+
+  - title: "Servicedesk app GardenGroup"
+    image: "/images/projectsPics/GardenGroup.png"
+    content:  "A modern **Service Desk** application built for **GardenGroup**, leveraging **MongoDB** for scalable data management and **WPF .NET** for a user-friendly, responsive desktop interface. The solution streamlines ticket management, enhances user support, and ensures efficient issue resolution. <br> <div class='badge-container'>  [![C#](https://img.shields.io/badge/Language-C%23-blue?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)[![Project Status: Done](https://img.shields.io/badge/Project%20Status-Done-Green?style=for-the-badge)]() [![.NET Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]() [![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]() [![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)](https://azure.microsoft.com/en-us/services/sql-database/)</div>"
+    button: 
+      enable: true
+      label: "Github Repo!"
+      link: "https://github.com/Jelcoo/2.1ProjectGardenGroup"
+
+
   - title: "Chapeau"
     image: "/images/projectsPics/Chapeau.png"
-    content:  "For our first-year IT project, my team and I developed Chapeau a comprehensive digital management system for a restaurant. This cutting-edge solution, built using C#, Windows Forms, and SQL, seamlessly integrates the operations of waitresses, the kitchen, the bar, and the checkout process. Designed to enhance efficiency and customer service, Chapeau ensures smooth communication between staff and streamlined order processing. Our project demonstrates our ability to collaborate effectively and leverage modern technologies to solve real-world challenges. <br> <div class='badge-container'>  [![C#](https://img.shields.io/badge/Language-C%23-blue?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)[![Project Status: Done](https://img.shields.io/badge/Project%20Status-Done-Green?style=for-the-badge)](https://your-project-url) [![.NET Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]() [![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]() [![SQL Azure](https://img.shields.io/badge/SQL%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/en-us/services/sql-database/)</div>"
+    content:  "For our first-year IT project, my team and I developed Chapeau a comprehensive digital management system for a restaurant. This cutting-edge solution, built using C#, Windows Forms, and SQL, seamlessly integrates the operations of waitresses, the kitchen, the bar, and the checkout process. Designed to enhance efficiency and customer service, Chapeau ensures smooth communication between staff and streamlined order processing. Our project demonstrates our ability to collaborate effectively and leverage modern technologies to solve real-world challenges. <br> <div class='badge-container'>  [![C#](https://img.shields.io/badge/Language-C%23-blue?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)[![Project Status: Done](https://img.shields.io/badge/Project%20Status-Done-Green?style=for-the-badge)]() [![.NET Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]() [![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]() [![SQL Azure](https://img.shields.io/badge/SQL%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/en-us/services/sql-database/)</div>"
     button: 
         enable: true
         label: "Github Repo!"
         link: "https://github.com/AsielElaouare/Chapeau"
+
+
 
   - title: "Someren"
     image: "/images/projectsPics/Someren.png"
