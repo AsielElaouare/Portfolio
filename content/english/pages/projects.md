@@ -2,11 +2,10 @@
 title: Projects
 
 features:
-  - title: "ProblemRaisers"
+  - title: "ProblemRaisers (MVP Startup)"
     image: "/images/projectsPics/ProblemRaisers.png"
-    content:  "My goal has always been clear: to innovate and address real-world problems that truly resonate with people. However, I often found it challenging to identify problems that were both impactful and worth dedicating my time to solve. Finding common pain points that many people share was particularly difficult because there isn’t a centralized platform to facilitate this process.
-
-This challenge inspired an idea: to create a platform where individuals can share their everyday pain points, enabling others in the same community to collaborate on solutions. This platform would not only foster innovation but also empower people to turn their ideas into tangible solutions—potentially creating opportunities for financial growth and entrepreneurship. I’m thrilled to introduce this concept, which aims to become a hub for innovation and creativity. Together, we can build a community that paves the way for future advancements, driven by shared experiences and collaborative problem-solving. <br> <div class='badge-container'>  [![C#](https://img.shields.io/badge/Language-C%23-blue?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)[![.NET Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]() [![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)](https://azure.microsoft.com/en-us/services/sql-database/)</div>"
+    content:  "Starting my own startup.
+This project aims to bridge the gap between real-world problems and innovative solutions by creating a collaborative platform where individuals can share everyday pain points. The platform encourages community-driven problem-solving, empowering users to turn shared challenges into actionable ideas and potential entrepreneurial opportunities. It fosters innovation, creativity, and collaboration, paving the way for impactful advancements driven by collective experiences. <br> <div class='badge-container'>  [![C#](https://img.shields.io/badge/Language-C%23-blue?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)[![.NET Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]() [![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)](https://azure.microsoft.com/en-us/services/sql-database/)</div>"
     button: 
         enable: true
         label: "Check it out!"
