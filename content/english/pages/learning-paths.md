@@ -3,7 +3,7 @@ title: Learning Paths
 
 features:
   - title: "JavaFX Framework" 
-    image: "/images/gallery/javaFX-logo.webp"
+    image: "/images/gallery/JavaFX-logo.webp"
     content: "My experience with JavaFX includes developing applications using the MVC architecture to ensure clean code separation and maintainability. I structured the project with models for data handling, views for the UI using FXML, and controllers to manage user interactions. Leveraging JavaFX’s powerful UI components, I built dynamic and responsive interfaces with scene transitions and custom styling using CSS. I implemented features like event handling, data binding, and multi-threading for a smooth user experience. Throughout the project, I focused on scalability, maintainability, and best practices for JavaFX application development."
 
   - title: "Projectmanagment" 
