@@ -2,7 +2,7 @@
 title: Projects
 
 features:
-  - title: "ProblemRaisers (MVP Startup)"
+  - title: "Solvegrid.io (MVP Startup)"
     image: "/images/projectsPics/ProblemRaisers.png"
     content:  "Starting my own startup.
 This project aims to bridge the gap between real-world problems and innovative solutions by creating a collaborative platform where individuals can share everyday pain points. The platform encourages community-driven problem-solving, empowering users to turn shared challenges into actionable ideas and potential entrepreneurial opportunities. It fosters innovation, creativity, and collaboration, paving the way for impactful advancements driven by collective experiences. <br> <div class='badge-container'>  [![C#](https://img.shields.io/badge/Language-C%23-blue?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)[![.NET Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]() [![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)](https://azure.microsoft.com/en-us/services/sql-database/)</div>"
