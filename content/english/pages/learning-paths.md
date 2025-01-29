@@ -2,6 +2,26 @@
 title: Learning Paths
 
 features:
+  - title: "JavaFX Framework" 
+    image: "/images/gallery/javaFX-logo.webp"
+    content: "My experience with JavaFX includes developing applications using the MVC architecture to ensure clean code separation and maintainability. I structured the project with models for data handling, views for the UI using FXML, and controllers to manage user interactions. Leveraging JavaFX’s powerful UI components, I built dynamic and responsive interfaces with scene transitions and custom styling using CSS. I implemented features like event handling, data binding, and multi-threading for a smooth user experience. Throughout the project, I focused on scalability, maintainability, and best practices for JavaFX application development."
+
+  - title: "Projectmanagment" 
+    image: "/images/gallery/projectmanagment-pic.png"
+    content: "My journey in learning project management began with understanding fundamental methodologies like Agile, Scrum, and Waterfall, gaining insight into how projects are planned, executed, and delivered. I explored key concepts such as scope definition, time management, risk assessment, and stakeholder communication. Through hands-on experience, I worked with tools like Trello to track progress, manage tasks, and ensure efficient collaboration. I also developed skills in team leadership, problem-solving, and adapting to changing project requirements. By applying best practices and learning from real-world case studies, I have built a strong foundation in managing projects effectively from initiation to completion."
+
+  - title: "PHP MVC Webdevelopment" 
+    image: "/images/gallery/docker-php.png"
+    content: "My experience with PHP and Docker includes building an MVC-based web application using PHP, MySQL, and Nginx in a containerized environment. I started by structuring the project with a  MVC structure, handling routing, controllers, models, and views efficiently. Using Docker, I set up a multi-container architecture, including a PHP container for application logic, a MySQL container for database management, and an Nginx container for handling requests. I configured Docker Compose to orchestrate these services, ensuring seamless communication between them. Additionally, secured the application with proper configurations, and implemented best practices for database migrations and deployment."
+
+  - title: "MongoDB" 
+    image: "/images/gallery/mongodb-pic.png"
+    content: "My journey to learn MongoDB began with understanding the fundamentals of NoSQL databases, exploring document-oriented storage, and setting up a development environment using MongoDB Compass and the MongoDB Shell. I then progressed to designing efficient schemas, performing CRUD operations, and optimizing queries with indexing and aggregation pipelines. Through hands-on experience, I worked with data modeling, replication, and sharding to ensure scalability. Additionally, I explored security best practices and integration with backend frameworks like .NET to develop high-performance applications."
+
+  - title: "ASP.NET" 
+    image: "/images/gallery/apsdotnet-pic.png"
+    content: "I have followed a structured learning path to master ASP.NET, starting with the fundamentals of ASP.NET Framework and ASP.NET Core, setting up a development environment with Visual Studio and .NET SDK, and understanding key concepts like MVC architecture and Razor Pages. I then advanced to building web applications using ASP.NET MVC, Razor Pages, and Web APIs, focusing on routing, controllers, and views. Along the way, I gained hands-on experience with authentication, authorization, and database integration using Entity Framework Core. I also explored performance optimization, deployment strategies, and best practices to develop scalable and secure web applications."
+
   - title: "SQL and Azure Databases" 
     image: "/images/gallery/sql-database-3-560.png"
     content: "Building on my IT background, I started with mastering SQL fundamentals. I then delved into advanced topics such as joins, subqueries, indexing, and optimization techniques. Expanding my expertise to Azure Databases, I learned to deploy, manage, and scale databases using Azure SQL Database and Azure Cosmos DB. This included understanding cloud-specific features like automated backups, security configurations, and performance tuning. Combining SQL proficiency with Azure's robust platform has significantly enhanced my database management and cloud computing skills."
