@@ -2,9 +2,22 @@
 title: Learning Paths
 
 features:
+
+  - title: "Vue.js" 
+    image: "/images/gallery/Vue.js_Logo.png"
+    content: "Currently focused on mastering Vue.js, a powerful JavaScript framework for building responsive and dynamic web applications. The learning process covers core concepts like components, directives, and reactive data handling, along with advanced topics such as Vue Router for navigation, Pinia for state management, and the Composition API for scalable application structure. It also involves integrating external data sources using Axios for API communication. The goal is to build a strong foundation in frontend development and apply these skills through real-world projects."
+
+  - title: "Spring Framework Java" 
+    image: "/images/gallery/SpringMVC-logo.png"
+    content: "Learning Spring Framework, a powerful ecosystem for building robust, scalable, and secure backend applications in Java. The learning path covers core concepts like Dependency Injection, Inversion of Control, and application configuration with Spring Boot. It involves building RESTful APIs with Spring Web, managing data with Spring Data JPA. Development is streamlined with libraries like Lombok for automatic code generation and JPA for efficient database operations. The goal is to develop a strong backend skill set and create enterprise-grade, production-ready applications."
+
   - title: "JavaFX Framework" 
     image: "/images/gallery/JavaFX-logo.webp"
     content: "My experience with JavaFX includes developing applications using the MVC architecture to ensure clean code separation and maintainability. I structured the project with models for data handling, views for the UI using FXML, and controllers to manage user interactions. Leveraging JavaFX’s powerful UI components, I built dynamic and responsive interfaces with scene transitions and custom styling using CSS. I implemented features like event handling, data binding, and multi-threading for a smooth user experience. Throughout the project, I focused on scalability, maintainability, and best practices for JavaFX application development."
+
+  - title: "ITIL 4" 
+    image: "/images/gallery/itil-4-dimensions.png"
+    content: "The leading framework for IT Service Management (ITSM) and digital service delivery. The learning path covers the core concepts of the Service Value System (SVS), guiding principles, and key practices for managing IT services effectively. It emphasizes aligning IT services with business needs, promoting continual improvement, and adopting a flexible, value-driven approach to service management. The goal is to build a strong understanding of modern ITSM strategies and prepare for real-world applications across various industries."
 
   - title: "Projectmanagment" 
     image: "/images/gallery/projectmanagment-pic.png"
@@ -29,6 +42,10 @@ features:
   - title: "Entity–relationship modeling" 
     image: "/images/gallery/1_pMIqOb1WaLSIaVbk5PQ5jA.png"
     content: "Building on my IT background, I mastered Entity-Relationship Diagram (ERD) modeling to enhance my database design skills. I learned to create precise ERDs, representing database structures clearly and ensuring data integrity. This expertise allowed me to translate business requirements into robust and scalable database schemas, facilitating efficient communication with stakeholders and developers. My proficiency in ERD modeling has become a key asset in designing effective database solutions."
+
+  - title: "Web Design" 
+    image: "/images/gallery/download.jpeg"
+    content: "Currently focused on building strong web design skills by studying the principles of user-centered design, usability, and interface patterns. The learning path includes reading Designing Interfaces by Jenifer Tidwell, a foundational book that explores effective design patterns for creating intuitive and engaging user experiences. Key topics include layout design, navigation models, form usability, and visual hierarchy. The goal is to develop a deep understanding of what makes interfaces not just functional, but delightful and efficient for users."
 
   - title: "Interaction Design" 
     image: "/images/gallery/Interaction_design_book.png"
