@@ -6,7 +6,7 @@ date: 2024-12-04T05:00:00Z
 image: "/images/gallery/logo-solvegrid.jpg"
 categories: ["Web Aplications"]
 author: "Asiel Elaouare"
-tags: ["ASP.NET", "C#", "MongoDB", "Startup", "Azure",]
+tags: ["ASP.NET", "C-sharp", "MongoDB", "Startup", "Azure",]
 draft: false
 ---
 
