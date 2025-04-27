@@ -8,8 +8,8 @@ features:
 This project aims to bridge the gap between real-world problems and innovative solutions by creating a collaborative platform where individuals can share everyday pain points. The platform encourages community-driven problem-solving, empowering users to turn shared challenges into actionable ideas and potential entrepreneurial opportunities. It fosters innovation, creativity, and collaboration, paving the way for impactful advancements driven by collective experiences. <br> <div class='badge-container'>  [![C#](https://img.shields.io/badge/Language-C%23-blue?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)[![.NET Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]() [![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)](https://azure.microsoft.com/en-us/services/sql-database/)</div>"
     button: 
         enable: true
-        label: "Check it out!"
-        link: "https://problem-raisers-mvp-hgegd2cub5eph4ce.germanywestcentral-01.azurewebsites.net/about"
+        label: "Read More"
+        link: "https://portfolio.asiel-elaouare.com/blog/solvegrid-startup/"
 
   - title: "Servicedesk app GardenGroup"
     image: "/images/projectsPics/GardenGroup.png"
