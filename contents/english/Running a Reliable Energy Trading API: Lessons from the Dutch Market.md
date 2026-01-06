@@ -4,7 +4,6 @@ meta_title: "energy trading API"
 description: "How we keep a regulated Dutch energy trading API highly available with CI/CD, AWS, OpenAPI and smart automation."
 date: 2026-01-06T14:07:10.835Z
 author: "Asiel Elaouare"
-tags: API operations,regulated energy market,CI/CD pipeline,AWS hosting,OpenAPI spec
 draft: false
 ---
 # Running a Reliable Energy Trading API: Lessons from the Dutch Market
